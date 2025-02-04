@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "WebApplication2.Controllers.CountriesController",
+    "Method": "GetAll",
+    "RelativePath": "api/countries/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.CountriesController",
+    "Method": "GetByCode",
+    "RelativePath": "api/countries/getByCode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isoCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebApplication2.Dtos.Countries",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
