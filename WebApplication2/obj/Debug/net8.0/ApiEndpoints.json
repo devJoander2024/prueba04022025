@@ -1,5 +1,36 @@
 [
   {
+    "ContainingType": "WebApplication2.Controllers.CalculadoraController",
+    "Method": "sumar",
+    "RelativePath": "api/calculator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "WebApplication2.Controllers.CountriesController",
     "Method": "GetAll",
     "RelativePath": "api/countries/getAll",
@@ -34,5 +65,15 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.CountryController",
+    "Method": "GetCountries",
+    "RelativePath": "api/pa\u00EDses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

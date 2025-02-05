@@ -79,6 +79,10 @@ namespace WebApplication2.Services
         {
             try
             {
+                Countries c = await GetCountryMoney(isoCode);
+
+               
+
                 string soapRequest = $@"<?xml version=""1.0"" encoding=""utf-8""?>
 <soap:Envelope xmlns:soap=""http://schemas.xmlsoap.org/soap/envelope/"">
   <soap:Body>
@@ -87,6 +91,7 @@ namespace WebApplication2.Services
     </CapitalCity>
   </soap:Body>
 </soap:Envelope>";
+
 
                 StringContent content = new StringContent(soapRequest, Encoding.UTF8, "text/xml");
 
@@ -114,9 +119,63 @@ namespace WebApplication2.Services
                 }
 
                 Countries country = new Countries();
-
+                country.codeMoneda = c.codeMoneda;
+                country.moneda = c.moneda;
                 country.name = countryNode.InnerText ?? "";
                 //country.isoCode = countryNode.SelectSingleNode("m:sISOCode", nsManager)?.InnerText ?? "";
+
+                return country;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Error al obtener la lista de países: {e.Message}");
+                return null;
+            }
+        }
+
+        public async Task<Countries> GetCountryMoney(string isoCode)
+        {
+            try
+            {
+                Countries country = new Countries();
+
+                string soapRequest = $@"<?xml version=""1.0"" encoding=""utf-8""?>
+<soap:Envelope xmlns:soap=""http://schemas.xmlsoap.org/soap/envelope/"">
+  <soap:Body>
+    <CountryCurrency xmlns=""http://www.oorsprong.org/websamples.countryinfo"">
+      <sCountryISOCode>{isoCode}</sCountryISOCode>
+    </CountryCurrency>
+  </soap:Body>
+</soap:Envelope>";
+
+                StringContent content = new StringContent(soapRequest, Encoding.UTF8, "text/xml");
+
+                HttpResponseMessage response = await _httpClient.PostAsync(uri, content);
+
+                if (!response.IsSuccessStatusCode)
+                {
+                    throw new Exception($"Error en la llamada al servicio SOAP: {response.StatusCode}");
+                }
+
+                string responseXml = await response.Content.ReadAsStringAsync();
+
+                XmlDocument doc = new XmlDocument();
+                doc.LoadXml(responseXml);
+
+                XmlNamespaceManager nsManager = new XmlNamespaceManager(doc.NameTable);
+                nsManager.AddNamespace("soap", "http://schemas.xmlsoap.org/soap/envelope/");
+                nsManager.AddNamespace("m", "http://www.oorsprong.org/websamples.countryinfo");
+
+                XmlNode countryNode = doc.SelectSingleNode("//m:CountryCurrencyResult", nsManager);
+
+                if (countryNode == null)
+                {
+                    throw new Exception("No se encontraron países en la respuesta del servicio SOAP.");
+                }
+
+
+                country.codeMoneda = countryNode.SelectSingleNode("m:sISOCode", nsManager)?.InnerText ?? "";
+                country.moneda = countryNode.SelectSingleNode("m:sName", nsManager)?.InnerText ?? "";
 
                 return country;
             }

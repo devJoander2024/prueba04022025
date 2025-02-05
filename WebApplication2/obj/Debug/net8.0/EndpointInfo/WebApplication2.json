@@ -5,6 +5,56 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/calculator": {
+      "post": {
+        "tags": [
+          "Calculadora"
+        ],
+        "parameters": [
+          {
+            "name": "num1",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "num2",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/countries/getAll": {
       "get": {
         "tags": [
@@ -54,6 +104,18 @@
           }
         }
       }
+    },
+    "/api/países": {
+      "get": {
+        "tags": [
+          "Country"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -66,6 +128,14 @@
             "nullable": true
           },
           "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "codeMoneda": {
+            "type": "string",
+            "nullable": true
+          },
+          "moneda": {
             "type": "string",
             "nullable": true
           }

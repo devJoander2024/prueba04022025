@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://www.dneonline.com/calculator.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference2"
+    ],
+    "sync": true,
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}

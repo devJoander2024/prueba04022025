@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\services\\countryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\countryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\services\\countriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\countriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\connected services\\servicereference2\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\connected services\\servicereference2\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCD05FD5-E8F2-4FFC-9D5D-03C7B717CADC}|WebApplication2TestProject\\WebApplication2TestProject.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2testproject\\unittestcountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +51,8 @@
       "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\perfil-bg\\pruebas\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58391A7C-E304-48F2-8324-1F3FD5CC44FE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,43 +62,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitTestCountries.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2TestProject\\UnitTestCountries.cs",
-              "RelativeDocumentMoniker": "WebApplication2TestProject\\UnitTestCountries.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2TestProject\\UnitTestCountries.cs",
-              "RelativeToolTip": "WebApplication2TestProject\\UnitTestCountries.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAawCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:49:16.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CountriesController.cs",
               "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Controllers\\CountriesController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T19:47:22.522Z"
+              "WhenOpened": "2025-02-05T14:56:34.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CountriesServices.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CountriesServices.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Services\\CountriesServices.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CountriesServices.cs",
-              "RelativeToolTip": "WebApplication2\\Services\\CountriesServices.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAIwFwAAABZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraService.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CalculadoraService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\CalculadoraService.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CalculadoraService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\CalculadoraService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T19:35:38.415Z",
+              "WhenOpened": "2025-02-05T14:22:47.984Z",
               "EditorCaption": ""
             },
             {
@@ -81,33 +98,137 @@
               "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
               "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Program.cs",
               "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T19:35:57.562Z"
+              "WhenOpened": "2025-02-04T19:35:57.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Countries.cs",
-              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Dtos\\Countries.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\Countries.cs",
-              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Dtos\\Countries.cs",
-              "RelativeToolTip": "WebApplication2\\Dtos\\Countries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T19:34:39.145Z"
+              "WhenOpened": "2025-02-05T13:53:06.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryServices.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CountryServices.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\CountryServices.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CountryServices.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\CountryServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:38:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "WebApplication2\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AgIAAGsDAAAAAAAAAAAawHQDAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:33:30.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountriesServices.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CountriesServices.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\CountriesServices.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Services\\CountriesServices.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\CountriesServices.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAIwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:19:01.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Connected Services\\ServiceReference2\\Reference.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Connected Services\\ServiceReference2\\Reference.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Connected Services\\ServiceReference2\\Reference.cs",
+              "RelativeToolTip": "WebApplication2\\Connected Services\\ServiceReference2\\Reference.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAqwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:21:48.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculadoraController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Controllers\\CalculadoraController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CalculadoraController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Controllers\\CalculadoraController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\CalculadoraController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:35:57.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "WebApplication2.csproj",
               "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
               "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
               "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
               "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-04T19:33:47.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTestCountries.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2TestProject\\UnitTestCountries.cs",
+              "RelativeDocumentMoniker": "WebApplication2TestProject\\UnitTestCountries.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2TestProject\\UnitTestCountries.cs",
+              "RelativeToolTip": "WebApplication2TestProject\\UnitTestCountries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:49:16.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Countries.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Dtos\\Countries.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\Countries.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\Dtos\\Countries.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\Countries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:34:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\perfil-bg\\pruebas\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T21:43:25.782Z"
             }
           ]
         }

@@ -10,6 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<CountriesServices>();
+builder.Services.AddScoped<CountryServices>();
+builder.Services.AddScoped<CalculadoraService>();
 
 var app = builder.Build();
 
